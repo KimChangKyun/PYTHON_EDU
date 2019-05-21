@@ -1,5 +1,3 @@
-import time
-
 a = 2
 b = 10
 
@@ -51,4 +49,4 @@ print(forWhile.while_for())
 print("#4) while문과 while문")
 print(forWhile.while_while())
 
-time.sleep(10) # 10초 멈추기
+input()
